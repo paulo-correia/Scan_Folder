@@ -1,4 +1,4 @@
-<h2>Listagem de diretório/pasta em PHP</h2>
+##Listagem de diretório/pasta em PHP<
 
 
 Modo de usar:
